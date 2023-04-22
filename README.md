@@ -59,16 +59,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malakhalifa&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- <h1>
+<h1>
   Recent Medium Posts :writing_hand: :
-</h1> -->
+</h1>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- <h1>
+<h1>
   Fun Zone:
-</h1> -->
+</h1>
 ![snake gif](https://github.com/malakhalifa/malakhalifa/blob/output/github-contribution-grid-snake.gif)
 
 <!-- <h1>
