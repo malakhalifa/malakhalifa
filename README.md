@@ -69,6 +69,7 @@
 <h1>
   Fun Zone:
 </h1>
+
 ![snake gif](https://github.com/malakhalifa/malakhalifa/blob/output/github-contribution-grid-snake.gif)
 
 <!-- <h1>
