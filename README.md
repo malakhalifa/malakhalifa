@@ -69,8 +69,8 @@
 <h1>
   Recent Medium Posts :writing_hand:
 </h1>
-
-  <!-- BLOG-POST-LIST:START
+  
+<!-- BLOG-POST-LIST:START
   BLOG-POST-LIST:END -->
 
 <h1>
