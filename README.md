@@ -50,7 +50,7 @@
 </div>
 
 <h1>
-  My Stats:
+  My Stats :open_book:
 </h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malakhalifa&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
@@ -60,14 +60,14 @@
 
 
 <h1>
-  Recent Medium Posts :writing_hand: :
+  Recent Medium Posts :writing_hand:
 </h1>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h1>
-  Fun Zone:
+  Fun Zone :space_invader:	
 </h1>
 
 ![snake gif](https://github.com/malakhalifa/malakhalifa/blob/output/github-contribution-grid-snake.gif)
