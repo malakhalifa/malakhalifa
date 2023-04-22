@@ -63,7 +63,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malakhalifa&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malakhalifa&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malakhalifa&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -71,8 +70,8 @@
   Recent Medium Posts :writing_hand:
 </h1>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START
+  BLOG-POST-LIST:END -->
 
 <h1>
   Fun Zone :space_invader:	
